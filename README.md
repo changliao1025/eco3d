@@ -1,6 +1,6 @@
 ## `ECO3D`
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6512369.svg)](https://doi.org/10.5281/zenodo.6512369)
+
 
 ECO3D: a three-dimentional land surface model.
 
@@ -8,7 +8,9 @@ ECO3D: a three-dimentional land surface model.
 ### `Acknowledgement`
 
 
-This study is supported through projects funded to Qianlai Zhuang by the NASA Land Use and Land Cover Change program (NASA‐NNX09AI26G), Department of Energy (DE‐FG02‐08ER64599), the NSF Division of Information and Intelligent Systems (NSF‐1028291), and a project from the United States Geological Survey focusing on quantification of carbon and methane dynamics in Alaska (G17AC00276). This research was supported in part through computational resources provided by Information Technology (RCAC) and Purdue Climate Change Research Center (PCCRC) at Purdue University. The first author and L. Ruby Leung were partly supported by the U.S. Department of Energy Office of Science Biological and Environmental Research through the Terrestrial Ecosystem Science program. We also thank USGS Water Mission Area National Research Program for providing the in situ DOC data used in this study. The first author also gratefully thanks the technical support received from USGS PRMS teams. We also appreciate assistance from Willem Schreuder on model calibration. The data used for model simulations are listed in Table 3 and can be obtained through corresponding data sources. All input data and model outputs are archived on the computers at Purdue University Research Repository (PURR) (https://purr.purdue.edu/publications/3339). PNNL is operated for DOE by Battelle Memorial Institute under contract DE‐AC05‐76RL01830.
+This study is supported through projects funded to Qianlai Zhuang by the NASA Land Use and Land Cover Change program (NASA‐NNX09AI26G), Department of Energy (DE‐FG02‐08ER64599), the NSF Division of Information and Intelligent Systems (NSF‐1028291), and a project from the United States Geological Survey focusing on quantification of carbon and methane dynamics in Alaska (G17AC00276). This research was supported in part through computational resources provided by Information Technology (RCAC) and Purdue Climate Change Research Center (PCCRC) at Purdue University. 
+
+The first author and L. Ruby Leung were partly supported by the U.S. Department of Energy Office of Science Biological and Environmental Research through the Terrestrial Ecosystem Science program. We also thank USGS Water Mission Area National Research Program for providing the in situ DOC data used in this study. The first author also gratefully thanks the technical support received from USGS PRMS teams. We also appreciate assistance from Willem Schreuder on model calibration. The data used for model simulations are listed in Table 3 and can be obtained through corresponding data sources. All input data and model outputs are archived on the computers at Purdue University Research Repository (PURR) (https://purr.purdue.edu/publications/3339). PNNL is operated for DOE by Battelle Memorial Institute under contract DE‐AC05‐76RL01830.
 
 
 ### `License`
