@@ -17,6 +17,7 @@ Table of contents
    history
    support
    contribution
+   api/api
 
 
 Addendum
