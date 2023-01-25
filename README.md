@@ -4,6 +4,8 @@
 
 ECO3D (ECOsystem 3D): a three-dimensional land surface model.
 
+Model documentation: https://eco3d.readthedocs.io/en/latest/
+
 
 ### `Acknowledgement`
 
