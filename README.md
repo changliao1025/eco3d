@@ -1,8 +1,6 @@
 ## `ECO3D`
 
-
-
-ECO3D: a three-dimentional land surface model.
+ECO3D (ECOsystem 3D): a three-dimensional ecosystem/land surface model.
 
 
 ### `Acknowledgement`
