@@ -1,6 +1,8 @@
 ## `ECO3D`
 
-ECO3D (ECOsystem 3D): a three-dimensional ecosystem/land surface model.
+[![DOI](https://zenodo.org/badge/215668894.svg)](https://zenodo.org/badge/latestdoi/215668894)
+
+ECO3D (ECOsystem 3D): a three-dimensional land surface model.
 
 
 ### `Acknowledgement`
@@ -34,10 +36,10 @@ There are a number of publications that describe the algorithms used in `ECO3D` 
 
 * Liao, C., Zhuang, Q., Leung, L. R., & Guo, L. (2019). Quantifying Dissolved Organic Carbon Dynamics Using a Three‐Dimensional Terrestrial Ecosystem Model at High Spatial‐Temporal Resolutions. Journal of Advances in Modeling Earth Systems, 11(12), 4489-4512.
 
-
+* Liao, Chang. (2022). ECO3D: a three-dimensional land surface model (0.1.22). Zenodo. https://doi.org/10.5281/zenodo.7569559
 
 
 ## Contact
 
-Please using the Github issue for Q&A. Please navigate to https://github.com/changliao1025/eco3d/issues if you have technical issues.
+Please using the GitHub issue for Q&A. Please navigate to https://github.com/changliao1025/eco3d/issues if you have technical issues.
 
