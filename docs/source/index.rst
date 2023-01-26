@@ -18,8 +18,6 @@ Table of contents
    history
    support
    contribution
-   
-
 
 Addendum
 --------
