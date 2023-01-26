@@ -15,7 +15,6 @@ Table of contents
    
    readme  
    installation
-
    history
    support
    contribution
