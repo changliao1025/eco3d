@@ -1,12 +1,14 @@
 ## `ECO3D`
 
-[![DOI](https://zenodo.org/badge/215668894.svg)](https://zenodo.org/badge/latestdoi/215668894)
+Model: [![DOI](https://zenodo.org/badge/215668894.svg)](https://zenodo.org/badge/latestdoi/215668894)
+
+
+Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7571313.svg)](https://doi.org/10.5281/zenodo.7571313)
 
 ECO3D (ECOsystem 3D): a three-dimensional land surface model.
 
-Model documentation: https://eco3d.readthedocs.io/en/latest/
+Documentation: https://eco3d.readthedocs.io/en/latest/
 
-Example case study: https://doi.org/10.5281/zenodo.7571313
 
 ### `Acknowledgement`
 
