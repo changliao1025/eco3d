@@ -41,7 +41,7 @@ def configureDoxyfile(input_dir, output_dir):
 read_the_docs_build = os.environ.get('READTHEDOCS', None) == 'True'
 
 breathe_projects = {}
-read_the_docs_build = True
+
 
 if read_the_docs_build:
     input_dir = '../../src'
