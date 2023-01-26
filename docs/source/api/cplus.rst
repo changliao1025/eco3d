@@ -8,8 +8,7 @@ Overview
 C++ class
 =========
 
-Atmosphere
-^^^^^^^^^
+
 .. doxygenclass:: ecohydrology::atmosphere
    :members:
 
