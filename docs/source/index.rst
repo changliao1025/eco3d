@@ -14,11 +14,12 @@ Table of contents
    :numbered:
    
    readme  
-   installation 
+   installation
+   api
    history
    support
    contribution
-   api
+   
 
 
 Addendum
