@@ -9,5 +9,3 @@ API Reference
 
    cplus/cplus
 
-
-

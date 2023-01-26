@@ -43,6 +43,8 @@ Vegetation
 .. doxygenclass:: ecohydrology::geology
    :members:
 
+Hydrology
+^^^^^^^^^^
 .. doxygenclass:: ecohydrology::glacier
    :members:
 
