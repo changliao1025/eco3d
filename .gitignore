@@ -43,4 +43,5 @@ tmp/
 *.app
 
 _build/
+_readthedocs/
 
