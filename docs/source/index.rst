@@ -15,7 +15,7 @@ Table of contents
    
    readme  
    installation
-   api/api
+
    history
    support
    contribution
