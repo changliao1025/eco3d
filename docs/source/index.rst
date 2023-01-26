@@ -6,8 +6,6 @@
 ECO3D's documentation!
 =============================
 
-Table of contents
------------------
 
 .. toctree::
    :maxdepth: 3
