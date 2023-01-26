@@ -11,10 +11,19 @@ C++ API Docs
 C++ class
 =========
 
+Atmosphere
+^^^^^^^^^^
 .. doxygenclass:: ecohydrology::atmosphere
    :members:
 
+.. doxygenclass:: ecohydrology::temperature
+   :members:
 
+.. doxygenclass:: ecohydrology::precipitation
+   :members:
+
+Vegetation
+^^^^^^^^^^
 .. doxygenclass:: ecohydrology::canopy
    :members:
 
@@ -70,8 +79,7 @@ C++ class
 .. doxygenclass:: ecohydrology::photosynthesis
    :members:
 
-.. doxygenclass:: ecohydrology::precipitation
-   :members:
+
 
 .. doxygenclass:: ecohydrology::soil
    :members:
@@ -103,8 +111,6 @@ C++ class
 .. doxygenclass:: ecohydrology::surface_runoff
    :members:
 
-.. doxygenclass:: ecohydrology::temperature
-   :members:
 
 .. doxygenclass:: ecohydrology::vegetation
    :members:
