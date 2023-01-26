@@ -7,12 +7,9 @@ API Reference
 C++ API Docs
 ************
 
-Overview
-========
 
 C++ class
 =========
-
 
 .. doxygenclass:: ecohydrology::atmosphere
    :members:
