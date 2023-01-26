@@ -16,7 +16,9 @@ ECO3D's documentation!
    history
    support
    contribution
-   api
+   references
+   authors
+   api/api
 
 Addendum
 --------

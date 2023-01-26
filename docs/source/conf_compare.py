@@ -41,14 +41,13 @@ def configureDoxyfile(input_dir, output_dir):
 read_the_docs_build = os.environ.get('READTHEDOCS', None) == 'True'
 
 breathe_projects = {}
-read_the_docs_build = True
 
 if read_the_docs_build:
-    input_dir = '../../src'
-    output_dir = './_build'
+    input_dir = '../../pyflowline'
+    output_dir = '../_build'
     configureDoxyfile(input_dir, output_dir)
     subprocess.call('doxygen', shell=True)
-    breathe_projects['eco3d'] = output_dir + '/xml'
+    breathe_projects['pyflowline'] = output_dir + '/xml'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -58,7 +57,7 @@ extensions = ['sphinx.ext.autodoc', "breathe" ]
 #...
 
 # Breathe Configuration
-breathe_default_project = "eco3d"
+breathe_default_project = "pyflowline"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -73,7 +72,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'eco3d'
+project = u'pyflowline'
 copyright = u'2020, Pacific Northwest National Laboratory'
 
 # The version info for the project you're documenting, acts as replacement for
