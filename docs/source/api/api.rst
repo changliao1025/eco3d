@@ -7,7 +7,5 @@ API Reference
    :maxdepth: 2
    :numbered:
 
-   cplus/cplus.rst
-
-
+   cplus/cplus
 
