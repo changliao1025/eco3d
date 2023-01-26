@@ -11,6 +11,9 @@ C++ API Docs
 C++ class
 =========
 
+.. doxygenclass:: ecohydrology::atmosphere
+   :members:
+
 
 .. doxygenclass:: ecohydrology::canopy
    :members:
