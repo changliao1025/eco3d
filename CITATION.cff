@@ -6,7 +6,7 @@ authors:
     orcid: https://orcid.org/0000-0002-7348-8858  
  
  
-title: "ECO3D: a three-dimentional ecosystem/land surface model"
-version: 0.1.22
-doi: 10.5281/zenodo.6407299
+title: "ECO3D: a three-dimensional ecosystem/land surface model"
+version: 1.0.0
+doi: 10.5281/zenodo.7569559
 date-released: 2022-03-31

@@ -6,9 +6,9 @@ ECO3D (ECOsystem 3D): a three-dimensional land surface model.
 
 Model documentation: https://eco3d.readthedocs.io/en/latest/
 
+Example case study: https://doi.org/10.5281/zenodo.7571313
 
 ### `Acknowledgement`
-
 
 This study is supported through projects funded to Qianlai Zhuang by the NASA Land Use and Land Cover Change program (NASA‐NNX09AI26G), Department of Energy (DE‐FG02‐08ER64599), the NSF Division of Information and Intelligent Systems (NSF‐1028291), and a project from the United States Geological Survey focusing on quantification of carbon and methane dynamics in Alaska (G17AC00276). This research was supported in part through computational resources provided by Information Technology (RCAC) and Purdue Climate Change Research Center (PCCRC) at Purdue University. 
 
