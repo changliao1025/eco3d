@@ -2,7 +2,7 @@
 What is ECO3D?
 #####################
 
-*********
-Overview
-*********
+ECO3D is a three-dimensional land surface model.
+
+
 

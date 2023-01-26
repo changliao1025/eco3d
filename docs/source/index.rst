@@ -13,7 +13,8 @@ Table of contents
    :maxdepth: 3
    :numbered:
    
-   readme   
+   readme  
+   installation 
    history
    support
    contribution
