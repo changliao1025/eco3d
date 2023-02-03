@@ -2,7 +2,6 @@
 
 Model: [![DOI](https://zenodo.org/badge/215668894.svg)](https://zenodo.org/badge/latestdoi/215668894)
 
-
 Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7571313.svg)](https://doi.org/10.5281/zenodo.7571313)
 
 ECO3D (ECOsystem 3D): a three-dimensional land surface model.
@@ -10,7 +9,7 @@ ECO3D (ECOsystem 3D): a three-dimensional land surface model.
 Documentation: https://eco3d.readthedocs.io/en/latest/
 
 
-### `Acknowledgement`
+### `Acknowledgment`
 
 This study is supported through projects funded to Qianlai Zhuang by the NASA Land Use and Land Cover Change program (NASA‐NNX09AI26G), Department of Energy (DE‐FG02‐08ER64599), the NSF Division of Information and Intelligent Systems (NSF‐1028291), and a project from the United States Geological Survey focusing on quantification of carbon and methane dynamics in Alaska (G17AC00276). This research was supported in part through computational resources provided by Information Technology (RCAC) and Purdue Climate Change Research Center (PCCRC) at Purdue University. 
 
@@ -41,6 +40,4 @@ There are a number of publications that describe the algorithms used in `ECO3D` 
 * Liao, C., Zhuang, Q., Leung, L. R., & Guo, L. (2019). Quantifying Dissolved Organic Carbon Dynamics Using a Three‐Dimensional Terrestrial Ecosystem Model at High Spatial‐Temporal Resolutions. Journal of Advances in Modeling Earth Systems, 11(12), 4489-4512.
 
 * Liao, Chang. (2022). ECO3D: a three-dimensional land surface model (0.1.22). Zenodo. https://doi.org/10.5281/zenodo.7569559
-
-
 
