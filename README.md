@@ -33,11 +33,21 @@ Copyright © 2022, Battelle Memorial Institute
 
 ### `References`
 
-There are a number of publications that describe the algorithms used in `ECO3D` in detail. If you make use of `ECO3D` in your work, please consider including a reference to the following:
+There are a number of publications that describe the algorithms used in `ECO3D` in detail. If you make use of `ECO3D` in your work, please consider the following references.
+
+Because `ECO3D` was developed based on `PRMS` and `TEM`, and tested at the same study domain in the `Tanana Flat`, additional references are also recommended.
+
+## `ECO3D` model 
+
+* Liao, Chang. (2022). ECO3D: a three-dimensional land surface model (0.1.22). Zenodo. https://doi.org/10.5281/zenodo.7569559
 
 * Liao, C. (2017). Three-dimensional water and carbon cycle modeling at high spatial-temporal resolutions (Doctoral dissertation, Purdue University).
 
+## `Scientific` study
+
 * Liao, C., Zhuang, Q., Leung, L. R., & Guo, L. (2019). Quantifying Dissolved Organic Carbon Dynamics Using a Three‐Dimensional Terrestrial Ecosystem Model at High Spatial‐Temporal Resolutions. Journal of Advances in Modeling Earth Systems, 11(12), 4489-4512.
 
-* Liao, Chang. (2022). ECO3D: a three-dimensional land surface model (0.1.22). Zenodo. https://doi.org/10.5281/zenodo.7569559
+* Liao, C., & Zhuang, Q. (2017). Quantifying the role of permafrost distribution in groundwater and surface water interactions using a three-dimensional hydrological model. Arctic, Antarctic, and Alpine Research, 49(1), 81-100.
+
+* Liao, C., & Zhuang, Q. (2017). Quantifying the role of snowmelt in stream discharge in an Alaskan watershed: an analysis using a spatially distributed surface hydrology model. Journal of Geophysical Research: Earth Surface, 122(11), 2183-2195.
 
