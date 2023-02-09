@@ -37,13 +37,13 @@ There are a number of publications that describe the algorithms used in `ECO3D` 
 
 Because `ECO3D` was developed based on `PRMS` and `TEM`, and tested at the same study domain in the `Tanana Flat`, additional references are also recommended.
 
-## `ECO3D` model 
+#### `ECO3D` model 
 
 * Liao, Chang. (2022). ECO3D: a three-dimensional land surface model (0.1.22). Zenodo. https://doi.org/10.5281/zenodo.7569559
 
 * Liao, C. (2017). Three-dimensional water and carbon cycle modeling at high spatial-temporal resolutions (Doctoral dissertation, Purdue University).
 
-## `Scientific` study
+#### `Scientific` study
 
 * Liao, C., Zhuang, Q., Leung, L. R., & Guo, L. (2019). Quantifying Dissolved Organic Carbon Dynamics Using a Three‐Dimensional Terrestrial Ecosystem Model at High Spatial‐Temporal Resolutions. Journal of Advances in Modeling Earth Systems, 11(12), 4489-4512.
 
