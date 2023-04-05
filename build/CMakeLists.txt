@@ -3,11 +3,12 @@ project(eco3d CXX)
 
 set(CMAKE_CXX_STANDARD 11)
 
-include_directories(../eco3d/src)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/../eco3d/src)
 
 set(CMAKE_VERBOSE_MAKEFILE ON)
 
-file(GLOB eco3d_srcs
+
+set(eco3d_srcs
         ../eco3d/src/atmosphere.cpp
         ../eco3d/src/atmosphere.h
         ../eco3d/src/canopy.cpp
