@@ -35,7 +35,7 @@ jobs:
         language: [ 'cpp' ]
         compiler:
           # you can specify the version after `-` like "llvm-13.0.0".
-          - gcc-8
+          - gcc-11
         build_type:
           - Debug
         developer_mode:
