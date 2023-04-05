@@ -64,7 +64,18 @@ jobs:
 
     # Autobuild attempts to build any compiled languages  (C/C++, C#, Go, or Java).
     # If this step fails, then you should remove it and run the build manually (see below)
-    - name: Build with cmake
+
+    - name: Setup Cpp
+      uses: aminya/setup-cpp@v1
+      with:
+        compiler: ${{ matrix.compiler }}      
+        cmake: true      
+        cppcheck: false
+        opencppcoverage: false
+    - name: Build with cmake      
+      run: |
+         echo "Run, Build Application using script"
+         ./build/cmake_make.sh
       #uses: github/codeql-action/autobuild@v2
 
     # ℹ️ Command-line programs to run using the OS shell.
@@ -72,13 +83,7 @@ jobs:
 
     #   If the Autobuild fails above, remove it and uncomment the following three lines.
     #   modify them (or add more) to build your code if your project, please refer to the EXAMPLE below for guidance.
-      with:
-        compiler: ${{ matrix.compiler }}
-        cmake: true
-        make: true
-      run: |
-         echo "Run, Build Application using script"
-         ./build/cmake_make.sh
+      
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
