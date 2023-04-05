@@ -75,7 +75,8 @@ jobs:
     - name: Build with cmake      
       run: |
          echo "Run, Build Application using script"
-         ./build/cmake_make.sh
+         cmake ./build/CMakeLists.txt
+         make install
       #uses: github/codeql-action/autobuild@v2
 
     # ℹ️ Command-line programs to run using the OS shell.
